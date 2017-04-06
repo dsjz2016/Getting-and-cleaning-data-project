@@ -1,10 +1,10 @@
-There are about 561 variables (observations) which are included in the features.txt.
-Three other variables subjectID, activityID and activity were merged to the final data.
-The final data shows the average of each variables for each activities performed by each partipants.
-Transformations done to process the raw data:
-1. Download data from source and read data
-2. Merge data
-3. Extract mean and std deviation for each measurement
-4. Use descriptive activity names to name the activities in the data set
-5. Appropriately labels the data set
-6. Create a second independent tidy data set
+#There are about 561 variables (observations) which are included in the features.txt.
+#Three other variables subjectID, activityID and activity were merged to the final data.
+#The final data shows the average of each variables for each activities performed by each partipants.
+#Transformations done to process the raw data:
+#1. Download data from source and read data
+#2. Merge data
+#3. Extract mean and std deviation for each measurement
+#4. Use descriptive activity names to name the activities in the data set
+#5. Appropriately labels the data set
+#6. Create a second independent tidy data set
